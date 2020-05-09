@@ -6,11 +6,11 @@
   max-width: 600px;
   margin: 40px auto;
   min-height: 200px;
+  font-family: Arial;
 }
 .App header {
   text-align: center;
 }
-
 
 .section {
   position: relative;
