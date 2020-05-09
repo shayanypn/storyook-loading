@@ -17,5 +17,5 @@ deploy:
   keep-history: true
   on:
     branch: master
-  local-dir: dist-storybook
+  local-dir: build-storybook
   verbose: true
